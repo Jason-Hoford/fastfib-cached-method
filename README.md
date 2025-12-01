@@ -294,6 +294,8 @@ This comprehensive figure includes:
 
 **Location**: `assets/fib_pygame_linear.gif`
 
+![Linear scale animation](assets/fib_pygame_linear.gif)
+
 Shows:
 - Execution time in milliseconds vs Fibonacci index
 - Self-developed curve staying below fast-doubling
@@ -302,6 +304,8 @@ Shows:
 #### Log Scale Animation
 
 **Location**: `assets/fib_pygame_log.gif`
+
+![Log scale animation](assets/fib_pygame_log.gif)
 
 Shows:
 - Execution time on log₁₀ scale vs Fibonacci index
